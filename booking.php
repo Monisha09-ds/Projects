@@ -39,6 +39,8 @@ include("connection.php");
                             <th width="25%" height="50px">Check In Dates</th>
                             <th width="25%" height="50px">Check Out Dates</th>
                             <th width="25%" height="50px">Memeber</th>
+                            <th width="25%" height="50px">Check </th>
+                            <th width="25%" height="50px">Memeber items</th>
                         </tr>
                         <?php
                         $q1="select * from f1";
